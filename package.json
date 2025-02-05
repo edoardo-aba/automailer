@@ -1,0 +1,26 @@
+{
+  "name": "automailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/csv-parse": "^1.2.2",
+    "@types/dotenv": "^8.2.0",
+    "@types/nodemailer": "^6.4.6",
+    "dotenv": "^16.0.3",
+    "http": "0.0.1-security",
+    "nodemailer": "^6.8.0",
+    "ts-node-register": "^1.0.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.1.0"
+  }
+}
